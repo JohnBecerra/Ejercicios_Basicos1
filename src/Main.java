@@ -5,10 +5,9 @@ public class Main {
 
         System.out.println("Bienvenidos a la clase de CP3");
 
-    int a;
-    int b;
+        int a=6;
+        int b=5;
 
+        System.out.println(a+b);
     }
-    }
-
 }
